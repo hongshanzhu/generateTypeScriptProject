@@ -1,4 +1,4 @@
-# ses-soap-proxy
+# generateTypeScriptProject
 
 ## Develop
 
@@ -10,5 +10,5 @@
 ## Usage
 
 ```
-npm install @ses-soap-proxy
+npm install generateTypeScriptProject
 ```

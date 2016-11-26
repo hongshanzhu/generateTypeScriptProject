@@ -1,7 +1,7 @@
 #!/bin/sh
 
-NAME=soapproxy
-PORT=9210
+NAME=tsProject
+PORT=5000
 
 DIR=/opt/miep/lib/node_modules/$NAME
 
