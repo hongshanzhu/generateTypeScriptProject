@@ -1,0 +1,5 @@
+reporting:
+    print: summary
+    reports:
+        - json
+    dir: ./reports/coverage
